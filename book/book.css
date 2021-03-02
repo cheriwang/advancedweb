@@ -1,5 +1,5 @@
-@font-face {font-family: 'Norwester';src: local('Norwester'), url(../norwester.otf) format('opentype');}
-@font-face {font-family: 'Circular Bold';src: local('Circular'), url(CircularStd_Bold.ttf) format('truetype');}
+@font-face {font-family: 'Norwester';src: url(../norwester.otf) format('opentype');}
+@font-face {font-family: 'Circular Bold';src: url(../CircularStd_Bold.ttf) format('truetype');}
 
 
 body{
