@@ -1,5 +1,5 @@
-@font-face {font-family: 'Norwester';src: url(../norwester.otf) format('opentype');}
-@font-face {font-family: 'Circular Bold';src: url(../CircularStd_Bold.ttf) format('truetype');}
+@font-face {font-family: 'Norwester';src:url(fonts/norwester.otf) format('opentype');}
+@font-face {font-family: 'Circular Bold';src:url(fonts/CircularStd_Bold.ttf) format('truetype');}
 
 
 body{
@@ -26,7 +26,7 @@ body{
     right: 0;
     height: 100px;
     width: 225px;
-    font-family: 'Norwester';
+    font-family: Norwester;
     font-size: 105px;
     color: #f9f1e3;
     letter-spacing: 0.3px;
@@ -108,7 +108,7 @@ body{
 }
 
 .text{
-    font-family: 'Norwester',  sans-serif;
+    font-family: Norwester,  sans-serif;
     font-size: 40px;
     color: #282625;
     letter-spacing: 0.3px;
@@ -116,7 +116,7 @@ body{
 }
 
 .h2 {
-    font-family: 'Circular Bold', sans-serif;
+    font-family: Circular Bold, sans-serif;
     font-size: 25px;
     color: #f9f1e3;
     position: relative;
@@ -124,7 +124,7 @@ body{
 }
 
 .h3 {
-    font-family: 'Norwester',  sans-serif;
+    font-family: Norwester,  sans-serif;
     font-size: 13px;
     color: #a12825;
     position: relative;
